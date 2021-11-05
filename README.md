@@ -1,0 +1,2 @@
+# Apenas exercícios para pratica
+
